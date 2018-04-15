@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "96786992734",
+    "firebase_url": "https://tavhackhaton.firebaseio.com",
+    "project_id": "tavhackhaton",
+    "storage_bucket": "tavhackhaton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96786992734:android:65b35cbf4c858446",
+        "android_client_info": {
+          "package_name": "com.kandirmaz.tolunay.tavhackaathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96786992734-bpu255em2k9gkl86n3lv8569412ea3cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo_PE0JMYs28NDpP_Sp-y5setFrkl3B3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
